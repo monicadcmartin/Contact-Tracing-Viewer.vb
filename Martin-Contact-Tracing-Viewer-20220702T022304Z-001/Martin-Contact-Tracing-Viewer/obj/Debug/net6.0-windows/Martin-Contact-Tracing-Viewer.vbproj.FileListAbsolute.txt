@@ -1,0 +1,17 @@
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\bin\Debug\net6.0-windows\Martin-Contact-Tracing-Viewer.exe
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\bin\Debug\net6.0-windows\Martin-Contact-Tracing-Viewer.deps.json
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\bin\Debug\net6.0-windows\Martin-Contact-Tracing-Viewer.runtimeconfig.json
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\bin\Debug\net6.0-windows\Martin-Contact-Tracing-Viewer.dll
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\bin\Debug\net6.0-windows\Martin-Contact-Tracing-Viewer.pdb
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\obj\Debug\net6.0-windows\Martin-Contact-Tracing-Viewer.vbproj.AssemblyReference.cache
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\obj\Debug\net6.0-windows\Martin_Contact_Tracing_Viewer.Form1.resources
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\obj\Debug\net6.0-windows\Martin-Contact-Tracing-Viewer.vbproj.GenerateResource.cache
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\obj\Debug\net6.0-windows\Martin-Contact-Tracing-Viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\obj\Debug\net6.0-windows\Martin-Contact-Tracing-Viewer.AssemblyInfoInputs.cache
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\obj\Debug\net6.0-windows\Martin-Contact-Tracing-Viewer.AssemblyInfo.vb
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\obj\Debug\net6.0-windows\Martin-Contact-Tracing-Viewer.vbproj.CoreCompileInputs.cache
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\obj\Debug\net6.0-windows\Martin-Contact-Tracing-Viewer.dll
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\obj\Debug\net6.0-windows\refint\Martin-Contact-Tracing-Viewer.dll
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\obj\Debug\net6.0-windows\Martin-Contact-Tracing-Viewer.pdb
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\obj\Debug\net6.0-windows\Martin-Contact-Tracing-Viewer.genruntimeconfig.cache
+C:\Users\63907\Desktop\test2\Martin-Contact-Tracing-Viewer\Martin-Contact-Tracing-Viewer\obj\Debug\net6.0-windows\ref\Martin-Contact-Tracing-Viewer.dll
